@@ -13,4 +13,4 @@
 ## Dokumentasi Swagger
 ```http://127.0.0.1:8000/api/documentation```
 
-<img width="1905" height="958" alt="image" src="https://github.com/user-attachments/assets/762c289e-1d57-4349-8bf5-8faa4a81b11e" />
+<img width="1903" height="958" alt="image" src="https://github.com/user-attachments/assets/43bc76f3-d703-4c3b-a34b-a931232c60cb" />
