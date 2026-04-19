@@ -5,7 +5,7 @@ namespace App\Swagger;
 use OpenApi\Attributes as OA;
 
 #[OA\Info(
-    title: "Ecommerce API",
+    title: "Ecommerce Toko Elektronik API",
     version: "1.0.0",
     description: "Dokumentasi API Laravel"
 )]
